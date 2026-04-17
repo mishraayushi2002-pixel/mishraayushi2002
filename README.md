@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm AYUSHI MISHRA</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishraayushi2002-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="mishraayushi2002-pixel" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" alt="mishraayushi2002-pixel" /></a> </p>
+
+- 📫 How to reach me **mishraayushi2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,4 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishraayushi2002-pixel&show_icons=true&locale=en&layout=compact" alt="mishraayushi2002-pixel" /></p>
 
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishraayushi2002-pixel&show_icons=true&locale=en" alt="mishraayushi2002-pixel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishraayushi2002-pixel&show_icons=true&locale=en" alt="mishraayushi2002-pixel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishraayushi2002-pixel&" alt="mishraayushi2002-pixel" /></p>
