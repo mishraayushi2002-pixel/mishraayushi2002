@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AYUSHI MISHRA</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishraayushi2002-pixel" alt="mishraayushi2002-pixel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" alt="mishraayushi2002-pixel" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
