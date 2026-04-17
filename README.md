@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishraayushi2002-pixel&show_icons=true&locale=en&layout=compact" alt="mishraayushi2002-pixel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishraayushi2002-pixel&show_icons=true&locale=en" alt="mishraayushi2002-pixel" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishraayushi2002-pixel&show_icons=true&locale=en" alt="mishraayushi2002-pixel" /></p>
